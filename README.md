@@ -13,4 +13,5 @@ Web application of Plagiarism Checker using Python-Flask. TF-IDF and cosine simi
 2. Easy to  work with (Same syntax as of Python)
 3. While Flask addresses itself as a "micro-framework", it is not lacking in features or power, especially with a clutch of extensions to support features such as authentication, databases and so on
 4. Comprehensive documentation available
-
+                               buv
+5. hbu
