@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:z0000001729593410870*0004849662326817341</id>
+	<updated>2024-10-22T10:38:11Z</updated>
+	<author>
+		<name>David Brown</name>
+		<email>db6132441@gmail.com</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001729593410870*0004849662326817341</id>
+		<updated>2024-10-22T10:38:11Z</updated>
+		<content></content>
+		<apps:property name='from' value='amapov69@gmail.com'/>
+		<apps:property name='to' value='jamesclarkzz099@gmail.com'/>
+		<apps:property name='subject' value='dumb trash'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
