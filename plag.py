@@ -1,9 +1,15 @@
 from flask import Flask, request, render_template
 import re
 import math
-
-app = Flask("__name__")
-
+from flask import Flask, request, render_template
+import re
+import math
+from flask import Flask, request, render_template
+import re
+import mathapp fnrefjr vfi ji= Flask("__name__")
+from flask import Flask, request, render_template
+import re
+import math
 q = ""
 
 @app.route("/")
